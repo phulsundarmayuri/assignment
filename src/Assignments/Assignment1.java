@@ -64,7 +64,7 @@ public class Assignment1 {
 		System.out.println("Title of a book : " + TitleOfBook);
 		
 	//15.Number of employees in a company: 500 
-		int NoOfEmployees = 500;
+		short NoOfEmployees = 500;
 		System.out.println("Number of employees in a company : " + NoOfEmployees);
 		
 	//16.Time of an event: 2:30 PM 
