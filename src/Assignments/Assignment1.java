@@ -14,7 +14,8 @@ public class Assignment1 {
 		System.out.println("Whether a customer has placed an order : " + ordervalue);
 		
 	//3. Person's phone number: "123-456-7890" 
-		int phonenumber = 1234567890;
+		//int phonenumber = 1234567890;
+		String phonenumber ="123-456-7890";
 		System.out.println("Person's phone number : " + phonenumber);
 		
 	//4. Amount of money in a customer's bank account: 1000.50 
@@ -48,7 +49,8 @@ public class Assignment1 {
 		System.out.println("Current year : " + year);
 		
 	//11.Number of followers on a social media platform: 1,000,000
-		int Numberoffollowers = 1000000;
+		//int Numberoffollowers = 1000000;
+		String Numberoffollowers = "1,000,000";
 		System.out.println("Number of followers on a social media platform : " + Numberoffollowers);
 		
 	//12.Rating of a movie: 7.5 
