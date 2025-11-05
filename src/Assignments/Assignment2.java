@@ -13,7 +13,7 @@ public class Assignment2 {
 		String Subject5[] = {"Engineering Drawing","Engineering Physics","Signals and Systems","Communication Eng.","Embedded Systems"};
 		String Subject6[] = {"Basic Electrical Eng.", "Engineering Graphics", "Object-Oriented Prog.", "Software Engineering", "Computer Graphics"};
 		
-		String StatusMarks1[] = {};
+		String StatusMarks1[] = {"Pass(78)", ""};
 	}
 
 }
