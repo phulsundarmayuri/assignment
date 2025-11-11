@@ -1,9 +1,9 @@
 package Assignments;
 
-public class EmpGroups {
+public class Assignment3_EmpGroups {
 
 	public static void main(String[] args) {
-		Employees empdata = new Employees();
+		Assignment3_Employees empdata = new Assignment3_Employees();
 		
 		String EmpNames[] = {empdata.empName1, empdata.empName2, empdata.empName3};
 		
