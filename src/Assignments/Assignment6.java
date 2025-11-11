@@ -9,7 +9,7 @@ public class Assignment6 {
 		int marks[] = {75, 80, 82};
 		
 		
-		int updatedmarks[] = new int[10];
+		int updatedmarks[] = new int[3];
 		updatedmarks[0] = marks[0]+ 10;
 		updatedmarks[1] = marks[1]+ 10;
 		updatedmarks[2] = marks[2]+ 10;
